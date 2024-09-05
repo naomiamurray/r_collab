@@ -6,3 +6,4 @@ we resolved the conflict >:-)
 resolved second
 
 success at last
+last thing
